@@ -1,0 +1,12 @@
+ <div class="box-gal">
+                            <img src="rest2.jpg" alt="" width="100%">
+                        </div>  
+                        <div class="box-gal">
+                           <img src="rest3.jpg" alt="" width="100%">
+                        </div> 
+                        <div class="box-gal">
+                            <img src="rest4.jpg" alt="" width="100%">
+                        </div> 
+                        <div class="box-gal">
+                            <img src="rest5.jpg" alt="" width="100%">
+                        </div>
